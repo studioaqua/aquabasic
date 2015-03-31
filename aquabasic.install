@@ -1,0 +1,28 @@
+<?php
+/**
+ * @file
+ * aquabasic.install
+ */
+
+/**
+ * Implements hook_install().
+ */
+function aquabasic_install()
+{
+}
+
+
+/**
+ * Implements hook_disable().
+ */
+function aquabasic_disable()
+{
+}
+
+
+/**
+ * Implements hook_uninstall().
+ */
+function aquabasic_uninstall()
+{
+}
